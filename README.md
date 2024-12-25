@@ -125,4 +125,7 @@ export default function SimpleSlider() {
 
 For more details, visit the [React Slick Documentation](https://react-slick.neostack.com/).
 
+![Screenshot 2024-12-25 235209](https://github.com/user-attachments/assets/41d2219b-3bb5-41a2-bdc2-439b1a3bc59f)
+
+
 #AASHUTOSH SINGH
